@@ -1,0 +1,1 @@
+{"name":"test-bot","version":"1.0.0","private":true,"description":"Standalone tester for the Amaavigo Umrah tenant chatbot webhook","scripts":{"test":"node --test"},"engines":{"node":"22.x"}}
